@@ -14,8 +14,11 @@ var linkDirectOne=linkDirectRandom[random(0, (linkDirectRandom.length-1))];
 var month=new Array;month[0]=1,month[1]=2,month[2]=3,month[3]=4,month[4]=5,month[5]=6,month[6]=7,month[7]=8,month[8]=9,month[9]=10,month[10]=11,month[11]=12;
 
 var date = new Date();
-var month = month[date.getMonth()];
-var year = date.getFullYear();
+// var month = month[date.getMonth()];
+var month = '4';
+
+// var year = date.getFullYear();
+var year = '2021';
 //--- random Post ---
 
 //news - 279 url
