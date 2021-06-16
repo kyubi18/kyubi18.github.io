@@ -6,3 +6,10 @@
   e.rel = 'noreferrer';
   p.appendChild(e);
 })();
+
+			(function() {
+			   var d = document, e = d.createElement('script'), p = d.getElementsByTagName('head')[0];
+			   e.type = 'text/javascript';  e.async = true;
+			   e.src = 'http://acdn.adnxs.com/ast/ast.js';
+			   p.insertBefore(e, p.firstChild);
+			})();
