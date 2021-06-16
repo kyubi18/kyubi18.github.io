@@ -1,5 +1,8 @@
-let elements = document.body.getElementsByTagName('div');
-
-Array.prototype.forEach.call(elements, e => {
-  e.innerHTML = "<a href="https://www.kiatkiatku.com">LifeStyle</a>";
-});
+(function() {
+  var d = document, e = d.createElement('a'), p = d.getElementsByTagName('body')[0];
+  d.createTextNode("Gaya Hidup");
+  e.setAttribute('href', "www.kiatkiatku.com");
+  e.setAttribute('target', "_blank");
+  e.setAttribute('rel', "noreferrer");
+  p.insertBefore(e, p.firstChild);
+})();
