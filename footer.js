@@ -4,5 +4,5 @@
   e.target = '_blank';
   e.text = 'Gaya Hidup';
   e.rel = 'noreferrer';
-  p.insertBefore(e, p.firstChild);
+  p.appendChild(e);
 })();
