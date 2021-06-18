@@ -1,5 +1,5 @@
 (function() {
-  var d = document, e = d.createElement('a'), p = d.getElementsByTagName('BODY')[0];
+  var d = document, e = d.createElement('a'), p = d.getElementsByTagName('p')[0];
   e.href = 'https://www.kiatkiatku.com';
   e.target = '_blank';
   e.text = 'LifeStyle';
