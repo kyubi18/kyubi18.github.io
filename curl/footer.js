@@ -8,3 +8,5 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
   e.rel = 'noreferrer';
   r.insertBefore(e, r.firstChild);
 })();
+
+document.querySelector(".theader").remove();
