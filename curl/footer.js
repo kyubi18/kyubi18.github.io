@@ -5,6 +5,6 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
   e.href = 'https://www.kiatkiatku.com';
   e.target = '_blank';
   e.text = 'SPONSORED: LifeStyle ';
-  e.rel = 'noreferrer';
+  e.rel = 'sponsored';
   r.insertBefore(e, r.firstChild);
 })();
