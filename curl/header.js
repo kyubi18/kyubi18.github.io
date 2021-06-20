@@ -1,1 +1,1 @@
-document.querySelector(".theader").remove();
+
