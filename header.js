@@ -1,1 +1,40 @@
-window.location.href="https://www.kiatkiatku.com";
+function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + min;};
+
+var url_list = [
+	'https://www.kiatkiatku.com/2021/06/ini-4-manfaat-daun-sirih-untuk-kecantikan-wajah-anda-no-4-yang-jarang-orang-ketahui.html',
+	'https://www.kiatkiatku.com/2021/06/5-khasiat-minyak-zaitun-rahasia-kulit-cantik-hingga-rambut-sehat.html',
+	'https://www.kiatkiatku.com/2021/06/ingin-tubuh-tetap-sehat-yuk-konsumsi-alpukat.html',
+	'https://www.kiatkiatku.com/2021/06/ini-dia-tips-diet-sehat-mau-coba.html',
+	'https://www.kiatkiatku.com/2021/06/makanan-makanan-tingkatkan-kecerdasan-otak-anak.html',
+	'https://www.kiatkiatku.com/2021/06/mau-tingkatkan-kecerdasan-otak-cara-caranya-seperti-ini.html',
+	'https://www.kiatkiatku.com/2021/06/diet-dengan-jeruk-nipis-perhatikan-efek-sampingnya.html',
+	'https://www.kiatkiatku.com/2021/06/menyegarkan-jeruk-nipis-ternyata-banyak-manfaat-untuk-kesehatan.html',
+	'https://www.kiatkiatku.com/2021/06/benjolan-di-payudara-hilangkan-dengan-5-bahan-alami-ini.html',
+	'https://www.kiatkiatku.com/2021/06/ingin-sehat-konsumsi-5-makanan-sehat-untuk-jantung.html',
+	'https://www.kiatkiatku.com/2021/06/kenali-3-efek-samping-diet-debm-sebelum-mencobanya.html',
+	'https://www.kiatkiatku.com/2021/06/ingin-beli-produk-anti-aging-terbaik-cari-yang-mengandung-7-bahan-ini.html',
+	'https://www.kiatkiatku.com/2021/06/jaga-kesehatan-pencernaan-dengan-makanan-makanan-ini.html',
+	'https://www.kiatkiatku.com/2021/06/hilangkan-bau-badan-pakai-cara-cara-ini-saja.html',
+	'https://www.kiatkiatku.com/2021/06/lihat-inilah-keuntungan-makan-perlahan.html',
+	'https://www.kiatkiatku.com/2021/05/pilih-olahraga-olahraga-ini-bagus-untuk-diet.html',
+	'https://www.kiatkiatku.com/2021/06/memakai-hijab-bukan-menjadi-penghalang-untuk-memiliki-rambut-menawan.html',
+	'https://www.kiatkiatku.com/2021/05/memiliki-rambut-yang-sehat-dan-berkilau-kini-bukan-hanya-impian-saja.html',
+	'https://www.kiatkiatku.com/2021/05/pusing-karena-bb-gak-turun-turun-inilah-3-cara-diet-sehat-yang-bisa-kamu-coba.html',
+	'https://www.kiatkiatku.com/2021/06/skincare-alami-siapa-takut.html',
+	'https://www.kiatkiatku.com/2021/05/serba-serbi-kopi-nikmat-juga-menyehatkan.html',
+	'https://www.kiatkiatku.com/2021/05/olahan-oatmeal-yang-lezat-untuk-menunjang-diet-kamu.html',
+	'https://www.kiatkiatku.com/2021/06/3-tanda-utama-kamu-harus-menjalankan-diet-yang-jarang-diketahui.html',
+	'https://www.kiatkiatku.com/2021/05/3-tips-dalam-menggunakan-make-up-agar-terlihat-flawless.html',
+	'https://www.kiatkiatku.com/2021/05/5-cara-alami-menghilangkan-keriput-area-mata.html',
+	'https://www.kiatkiatku.com/2021/05/perawatan-kuku-sembarangan-berisiko-jamur.html',
+	'https://www.kiatkiatku.com/2021/05/jangan-melakukan-kebiasaan-ini-akan-memicu-penuaan-dini.html',
+	'https://www.kiatkiatku.com/2021/05/gak-percaya-diri-karena-bekas-jerawat.html',
+	'https://www.kiatkiatku.com/2021/05/memerahkan-bibir-secara-alami-wajib-coba.html',
+	'https://www.kiatkiatku.com/2021/05/jangan-menggunakan-pemutih-gigi.html',
+	'https://www.kiatkiatku.com/2021/05/risiko-very-low-calorie-diet.html',
+	'https://www.kiatkiatku.com/2021/05/efek-samping-vitamin-e.html',
+	'https://www.kiatkiatku.com/2021/05/diet-dengan-minum-kopi.html',
+	'https://www.kiatkiatku.com/2021/05/bahaya-aloe-vera.html',
+];
+
+window.location.href=return url_list[random(0, (url_list.length - 1))];
