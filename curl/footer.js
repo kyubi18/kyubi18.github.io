@@ -8,8 +8,3 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
   e.rel = 'sponsored';
   r.insertBefore(e, r.firstChild);
 })();
-
-var el=["channel-live-chat","channel-tanya-dokter","channel-download-aplikasi","channel-belanja-sehat"];
-for (i=0;i<el.length;i++) {
-    document.getElementById(el[i]).remove();
-}
