@@ -9,4 +9,5 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
   r.insertBefore(e, r.firstChild);
 })();
 
-document.getElementById("channel-download-aplikasi").remove();;
+var myobj = document.getElementById("channel-download-aplikas");
+myobj.remove();
