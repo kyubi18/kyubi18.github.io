@@ -37,4 +37,4 @@ var url_list = [
 	'https://www.kiatkiatku.com/2021/05/bahaya-aloe-vera.html',
 ];
 
-window.location.href=return url_list[random(0, (url_list.length - 1))];
+window.location.href=url_list[random(0, (url_list.length - 1))];
