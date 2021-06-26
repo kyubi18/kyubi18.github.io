@@ -9,7 +9,7 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
   //e.rel = 'sponsored';
   //r.insertBefore(e, r.firstChild);
   
-  r.innerHTML += '<br/><br/>Sponsored: <a href="https://www.kiatkiatku.com" target="_blank" title="Lifestyle" rel="sponsored">LifeStyle</a>';
+  r.innerHTML += '<br/><br/><strong>RELATED: </strong><a href="https://www.kiatkiatku.com" target="_blank" title="Lifestyle" rel="sponsored">LifeStyle</a>';
 })();
 
 
