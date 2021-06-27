@@ -19,6 +19,7 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
 
   
   document.getElementById("izootoSdk").remove();
+  document.getElementById("initads").remove();
   document.getElementById("M591273ScriptRootC918445_02264").remove();
   document.getElementById("ssp_doubleclick_02264").remove();
   document.querySelectorAll(".mgbox").remove();
