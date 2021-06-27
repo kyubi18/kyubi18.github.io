@@ -22,5 +22,9 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
   document.getElementById("M591273ScriptRootC918445_02264").remove();
   document.getElementById("ssp_doubleclick_02264").remove();
   document.querySelectorAll(".mgbox").remove();
+  document.querySelectorAll("mgbox").remove();
+  document.querySelector(".mgbox").remove();
+  document.querySelector("mgbox").remove();
+
 
 })();
