@@ -25,6 +25,7 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
   document.querySelectorAll("mgbox").remove();
   document.querySelector(".mgbox").remove();
   document.querySelector("mgbox").remove();
+  document.getElementsByTagName("iframe").remove();
 
 
 })();
