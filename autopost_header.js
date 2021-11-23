@@ -10,4 +10,4 @@ hs.src = ('//s10.histats.com/js15_as.js');
 
 document.write('<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4526895&101" alt="" border="0"><\/a><\/noscript>');
 
-document.write('<script defer src="https://s.deltraff.com/u/?k=6110bcdbb9714&d=0&m=0&gf=1"></script>');
+document.write('<script src="//mediapalmtree.com/v2/loader.js?_t=54589" data-ts="1637680094" data-token="6abad3470a5a5ef9156b3e345bc802ad77da4f64" data-am="true" data-promo-cdn="mediapalmtree.com"></script>');
