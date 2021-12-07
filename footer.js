@@ -28,8 +28,8 @@ function getURL() {
 var url = window.location.href.replace('https://', '');
 
 var parse_url = url.split('/');
-var parse_url_lists = parse_url[3].replace('.html', '').split('-').join(' ')
-var direct_link = getURL()+'?q='+encodeURI(parse_url_lists)+'&s2=kiatkiatku'
+var parse_url_lists = parse_url[3].replace('.html', '').split('-').join(' ');
+var direct_link = getURL()+'?q='+encodeURI(parse_url_lists)+'&s2=kiatkiatku';
 
 
 (function() {
