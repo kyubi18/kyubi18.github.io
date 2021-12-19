@@ -4,7 +4,7 @@ document.write('<html lang="id-ID"><head>');
 function getIP(json) {document.write("IP: ", json.ip);}
 document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
 
-document.write('<script async="" src="//lzupkz.com/rdkl17/912/ilvp0my03/8qh/876vqu867pyko51h.php"><\/script> ');
+document.write('<script async src="//odoatw.com/klz7l1921/livp0my30/qh8/876vqu/876ykp1c9mau.php"><\/script>');
 
 //GA
 document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175343931-1"><\/script>');
@@ -43,5 +43,5 @@ document.write('<meta property="og:url" content="' + hs2 + '" />');
 document.write('<meta property="og:site_name" content="BersamaWisata" />');
 
 document.write('</head><body>');
-document.write('<div data-la-block="b6db0c96-0063-4183-97cd-a1c40790b0fc"><\/div> ');
+document.write('<div data-la-block="9810c711-98b6-4286-85f3-17499e8cc70a"><\/div>');
 document.write('<\/body><\/html>');
