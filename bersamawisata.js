@@ -4,7 +4,7 @@ document.write('<html lang="id-ID"><head>');
 function getIP(json) {document.write("IP: ", json.ip);}
 document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
 
-document.write('<script async src="//odoatw.com/klz7l1921/livp0my30/qh8/876vqu/876ykp1c9mau.php"><\/script>');
+document.write('<script async="" src="//odoatw.com/7se71l129ilvmp0y03h8q687uvq/876/pkyw0xb.php"><\/script>');
 
 //GA
 document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175343931-1"><\/script>');
