@@ -1,13 +1,23 @@
+document.write('<html lang="id-ID"><head><meta charset="UTF-8" />');
+
+//CHECK IP
 function getIP(json) {document.write("IP: ", json.ip);}
+document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
+
+//GA
+document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175343931-1"><#/script>');
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'UA-175343931-1');
-		  
+
+//READ HOST
 var hs = window.location.host;
 var hs2 = window.location.href;
+//READ UA
 var ua = navigator.userAgent;
 
+//META ID WEB
 var title = window.location.href.replace('https://', '');
 
 var parse_url = title.split('/');
@@ -28,3 +38,22 @@ document.write('<meta property="og:title" content="' + parse_url_lists.capitaliz
 document.write('<meta property="og:description" content="BersamaWisata.com memberikan solusi kebutuhan wisata Anda, tiket pesawat, voucher hotel dan penginapan, kereta api, bus, rental mobil, aktivitas, pembayaran tagihan, ppob, pulsa, tiket konser, pembayaran, dll. - ' + parse_url_lists.capitalize() + ' - BersamaWisata" />');
 document.write('<meta property="og:url" content="' + hs2 + '" />');
 document.write('<meta property="og:site_name" content="BersamaWisata" />');
+
+document.write('<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+	googletag
+		.defineSlot(
+			'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+		.addService(googletag.pubads());
+	googletag.enableServices();
+});
+
+document.write('</head><body>');
+document.write('</head><body>');
+document.write('<div id="banner-ad" style="width: 300px; height: 250px;">');
+googletag.cmd.push(function() {
+	googletag.display('banner-ad');
+});
+document.write('<\/div>');
+document.write('<\/body><\/html>');
