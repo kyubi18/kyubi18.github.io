@@ -1,5 +1,3 @@
-document.write('<meta charset="UTF-8"/>');
-
 //CHECK IP
 function getIP(json) {document.write("IP: ", json.ip);}
 document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
@@ -48,11 +46,3 @@ googletag.cmd.push(function() {
 		.addService(googletag.pubads());
 	googletag.enableServices();
 });
-
-document.write('</head><body>');
-document.write('<div id="banner-ad" style="width: 300px; height: 250px;">');
-googletag.cmd.push(function() {
-	googletag.display('banner-ad');
-});
-document.write('<\/div>');
-document.write('<\/body><\/html>');
