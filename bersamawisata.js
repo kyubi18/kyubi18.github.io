@@ -1,4 +1,4 @@
-document.write('<html lang="id-ID"><head><meta charset="UTF-8" />');
+document.write('<html lang="id-ID"><head>');
 
 //CHECK IP
 function getIP(json) {document.write("IP: ", json.ip);}
@@ -32,6 +32,7 @@ function(m, p1, p2) {
 });
 };		
 document.write('<title>' + parse_url_lists.capitalize() + ' - BersamaWisata<\/title>')
+document.write('<meta charset="UTF-8" />');
 document.write('<meta name="description" content="BersamaWisata.com memberikan solusi kebutuhan wisata Anda, tiket pesawat, voucher hotel dan penginapan, kereta api, bus, rental mobil, aktivitas, pembayaran tagihan, ppob, pulsa, tiket konser, pembayaran, dll. - ' + parse_url_lists.capitalize() + ' - BersamaWisata" />');
 document.write('<link rel="canonical" href="' + hs2 + '" />');
 document.write('<meta property="og:locale" content="id_ID" />');
