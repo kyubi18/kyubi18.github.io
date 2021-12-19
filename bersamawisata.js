@@ -50,7 +50,6 @@ googletag.cmd.push(function() {
 });
 
 document.write('</head><body>');
-document.write('</head><body>');
 document.write('<div id="banner-ad" style="width: 300px; height: 250px;">');
 googletag.cmd.push(function() {
 	googletag.display('banner-ad');
