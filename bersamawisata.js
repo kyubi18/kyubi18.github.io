@@ -1,6 +1,10 @@
+document.write('<html lang="id-ID"><head><meta charset="UTF-8" />');
+
 //CHECK IP
 function getIP(json) {document.write("IP: ", json.ip);}
 document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
+
+document.write('<script async="" src="//lzupkz.com/rdkl17/912/ilvp0my03/8qh/876vqu867pyko51h.php"><\/script> ');
 
 //GA
 document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175343931-1"><\/script>');
@@ -37,12 +41,6 @@ document.write('<meta property="og:description" content="BersamaWisata.com membe
 document.write('<meta property="og:url" content="' + hs2 + '" />');
 document.write('<meta property="og:site_name" content="BersamaWisata" />');
 
-document.write('<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
-window.googletag = window.googletag || {cmd: []};
-googletag.cmd.push(function() {
-	googletag
-		.defineSlot(
-			'/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
-		.addService(googletag.pubads());
-	googletag.enableServices();
-});
+document.write('</head><body>');
+document.write('<div data-la-block="b6db0c96-0063-4183-97cd-a1c40790b0fc"><\/div> ');
+document.write('<\/body><\/html>');
