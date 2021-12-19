@@ -1,11 +1,11 @@
-document.write('<html lang="id-ID"><head><meta charset="UTF-8" />');
+document.write('<meta charset="UTF-8"/>');
 
 //CHECK IP
 function getIP(json) {document.write("IP: ", json.ip);}
 document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
 
 //GA
-document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175343931-1"><#/script>');
+document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175343931-1"><\/script>');
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
