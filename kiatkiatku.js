@@ -41,4 +41,6 @@ document.write('<meta property="og:locale" content="id_ID" />');
 document.write('</head><body>');
 document.write('<script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=300x250&ga=g"><\/script>');
 document.write('<script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=300x250&ga=g"><\/script>');
+document.write('<br/>');
+document.write('<iframe src="//a.exdynsrv.com/iframe.php?idzone=4532116&size=728x90" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"><\/iframe>');
 document.write('<\/body><\/html>');
