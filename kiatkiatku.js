@@ -37,6 +37,16 @@ document.write('<meta property="og:url" content="' + hs2 + '" />');
 document.write('<meta content="Kiat-Kiatku | Hidup Sehat" property="og:site_name"/>');
 document.write('<link rel="canonical" href="' + hs2 + '" />');
 document.write('<meta property="og:locale" content="id_ID" />');
+document.write("<meta content='983cfa3c79488a4c2f502e69aebb58e14693aeb4' name='hilltopads-site-verification'/>");
+
+(function(__htas){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = __htas || {};
+s.src = "\/\/apprefaculty.pro\/cADl9x6.bp2F5FlqSbWAQT9\/NDDkMmxOOBTPMH5_N\/Sg0F0qM\/zME\/5\/MtzWkT2J";
+l.parentNode.insertBefore(s, l);
+})({})
 
 document.write('</head><body>');
 document.write('<script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=300x250&ga=g"><\/script>');
