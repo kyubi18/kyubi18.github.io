@@ -39,4 +39,6 @@ document.write('<link rel="canonical" href="' + hs2 + '" />');
 document.write('<meta property="og:locale" content="id_ID" />');
 
 document.write('</head><body>');
+document.write('<script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=300x250&ga=g"><\/script>');
+document.write('<script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=300x250&ga=g"><\/script>');
 document.write('<\/body><\/html>');
