@@ -48,7 +48,7 @@ document.write('<meta property="og:locale" content="en_US" />');
 
 document.write('</head><body>');
 // document.write("<script type='text/javascript' src='//pl16852220.effectivegatetocontent.com/eb/6c/96/eb6c96880ab3814541e6fcf984684351.js'></script>");
-document.write("<script async="async" data-cfasync="false" src="//pl16853110.effectivegatetocontent.com/a956a2e7fcb8525f00fdf269cb9369b7/invoke.js"></script>");
+document.write('<script async="async" data-cfasync="false" src="//pl16853110.effectivegatetocontent.com/a956a2e7fcb8525f00fdf269cb9369b7/invoke.js"></script>');
 document.write('<div class="row"><div class="col-md-12"><center><script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=728x90&ga=g"><\/script><\/div><\/div><\/center>');
 
 atOptions = {
