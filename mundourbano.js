@@ -5,11 +5,11 @@ function getIP(json) {document.write("IP: ", json.ip);}
 document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
 
 //GA
-document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-BWZHDX3XWK"><\/script>');
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'UA-BWZHDX3XWK');
+// document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-BWZHDX3XWK"><\/script>');
+// window.dataLayer = window.dataLayer || [];
+// function gtag(){dataLayer.push(arguments);}
+// gtag('js', new Date());
+// gtag('config', 'UA-BWZHDX3XWK');
 
 //READ HOST
 var hs = window.location.host;
