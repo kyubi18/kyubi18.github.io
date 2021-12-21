@@ -1,4 +1,4 @@
-document.write('<html lang="id-ID"><head>');
+document.write('<html><head>');
 
 //CHECK IP
 function getIP(json) {document.write("IP: ", json.ip);}
