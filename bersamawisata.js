@@ -4,7 +4,6 @@ document.write('<html lang="id-ID"><head>');
 function getIP(json) {document.write("IP: ", json.ip);}
 document.write('<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"><\/script>');
 
-document.write('<script async src="//odoatw.com/1wx71l921ivl/pm03y0/h8q786/vuq867/pykynb3h.php"><\/script>');
 
 //GA
 document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175343931-1"><\/script>');
@@ -43,5 +42,12 @@ document.write('<meta property="og:url" content="' + hs2 + '" />');
 document.write('<meta property="og:site_name" content="BersamaWisata" />');
 
 document.write('</head><body>');
-document.write('<div data-la-block="9810c711-98b6-4286-85f3-17499e8cc70a"><\/div>');
+atOptions = {
+	'key' : '7a35e7972eca36f8d9e9b583c15ab6a8',
+	'format' : 'iframe',
+	'height' : 90,
+	'width' : 728,
+	'params' : {}
+};
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://chandlersubsequently.com/7a35e7972eca36f8d9e9b583c15ab6a8/invoke.js"></scr' + 'ipt>');
 document.write('<\/body><\/html>');
