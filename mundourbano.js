@@ -42,7 +42,5 @@ document.write('<script src="https://cdn-server.top/p/mms.js?pub=264876&ga=g"><\
 document.write('<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4532894"><\/script>');
 document.write("<script src='//pl16852220.effectivegatetocontent.com/eb/6c/96/eb6c96880ab3814541e6fcf984684351.js' type='text/javascript'><\/script>");
 document.write("<script async='async' src='https://a.exdynsrv.com/ad-provider.js' type='application/javascript'><\/script>");
-document.write("<ins class='adsbyexoclick' data-zoneid='4532892'/>");
-(AdProvider = window.AdProvider || []).push({&quot;serve&quot;: {}});
 document.write('</head><body>');
 document.write('<\/body><\/html>');
