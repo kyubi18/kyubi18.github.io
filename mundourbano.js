@@ -47,7 +47,8 @@ document.write('<meta property="og:locale" content="en_US" />');
 
 
 document.write('</head><body>');
-document.write("<script type='text/javascript' src='//pl16852220.effectivegatetocontent.com/eb/6c/96/eb6c96880ab3814541e6fcf984684351.js'></script>");
+// document.write("<script type='text/javascript' src='//pl16852220.effectivegatetocontent.com/eb/6c/96/eb6c96880ab3814541e6fcf984684351.js'></script>");
+document.write("<script async="async" data-cfasync="false" src="//pl16853110.effectivegatetocontent.com/a956a2e7fcb8525f00fdf269cb9369b7/invoke.js"></script>");
 document.write('<div class="row"><div class="col-md-12"><center><script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=728x90&ga=g"><\/script><\/div><\/div><\/center>');
 
 atOptions = {
@@ -58,6 +59,8 @@ atOptions = {
 	'params' : {}
 };
 document.write('<div class="row"><div class="col-md-12"><center><scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.variousformatscontent.com/60ebb7008cbc89455ee51769038660b1/invoke.js"></scr' + 'ipt><\/div><\/div><\/center>');
+
+document.write('<div class="row"><div class="col-md-12"><center><div id="container-a956a2e7fcb8525f00fdf269cb9369b7"><\/div><\/div><\/div><\/center>');
 
 document.write('<div class="container-fluid" style="background-color:bisque;"><div class="row"><div class="col-md-12"><div id="content" class="site-content" style="transform: none;"><div class="wrap-content" role="main" style="transform: none;"><div class="container" style="transform: none;"><div class="row" style="transform: none;"><div class="main-content col-sx-12 col-sm-12 col-md-8 col-lg-8"><div class="content-inner"><div class="box box-article"><article id="post-151" class="post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-foody tag-food tag-health tag-lunches tag-salads"><div class="entry-content"><p><h3>The instruction how to make Spiced chickpea, quinoa and vegetable soup<\/h3><ol><li>Heat oil in a large saucepan over medium heat. increase be credited with onion, carrot, celery and garlic. Cook, stirring, for 5 minutes or until onion has softened. mount up curry powder and garam masala. Cook, stirring, for 1 minute or until fragrant.<\/li><\/ol><\/p><\/p><\/div><\/article><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div>');
 
