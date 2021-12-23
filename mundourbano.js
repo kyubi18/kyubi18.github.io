@@ -44,7 +44,7 @@ document.write('<meta content="CMania" property="og:site_name"/>');
 document.write('<link rel="canonical" href="' + hs2 + '" />');
 document.write('<meta property="og:locale" content="en_US" />');
 
-document.write('<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4532900"><\/script>');
+// document.write('<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4532900"><\/script>');
 
 
 document.write('</head><body>');
@@ -63,6 +63,8 @@ document.write('<div class="row"><div class="col-md-12"><center><div id="adm-con
 document.write('<div class="row"><div class="col-md-12"><center><scr' + 'ipt async="async" data-cfasync="false" src="http' + (location.protocol === 'https:' ? 's' : '') + '://pl16853110.effectivegatetocontent.com/a956a2e7fcb8525f00fdf269cb9369b7/invoke.js"><\/scr' + 'ipt><div id="container-a956a2e7fcb8525f00fdf269cb9369b7"><\/div><\/div><\/div><\/center>');
 
 document.write('<div class="row"><div class="col-md-12"><center><iframe data-aa="1876198" src="//ad.a-ads.com/1876198?size=728x90" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;"><\/iframe><\/center>');
+
+document.write('<div class="row"><div class="col-md-12"><center><script type="application/javascript" data-idzone="4535114" src="https://a.exdynsrv.com/nativeads-v2.js" ><\/script><\/center>');
 
 
 document.write('<div class="container-fluid" style="background-color:bisque;"><div class="row"><div class="col-md-12"><div id="content" class="site-content" style="transform: none;"><div class="wrap-content" role="main" style="transform: none;"><div class="container" style="transform: none;"><div class="row" style="transform: none;"><div class="main-content col-sx-12 col-sm-12 col-md-8 col-lg-8"><div class="content-inner"><div class="box box-article"><article id="post-151" class="post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-foody tag-food tag-health tag-lunches tag-salads"><div class="entry-content"><p><h3>The instruction how to make Spiced chickpea, quinoa and vegetable soup<\/h3><ol><li>Heat oil in a large saucepan over medium heat. increase be credited with onion, carrot, celery and garlic. Cook, stirring, for 5 minutes or until onion has softened. mount up curry powder and garam masala. Cook, stirring, for 1 minute or until fragrant.<\/li><\/ol><\/p><\/p><\/div><\/article><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div>');
