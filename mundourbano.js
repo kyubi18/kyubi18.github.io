@@ -49,7 +49,7 @@ document.write('<script type="application/javascript" src="https://syndication.e
 
 document.write('</head><body>');
 // document.write("<script type='text/javascript' src='//pl16852220.effectivegatetocontent.com/eb/6c/96/eb6c96880ab3814541e6fcf984684351.js'></script>");
-document.write('<div class="row"><div class="col-md-12"><center><script type="text/javascript" src="https://pppbr.com/bnr.php?section=General&pub=264876&format=728x90&ga=g"><\/script><\/div><\/div><\/center>');
+document.write('<div class="row"><div class="col-md-12"><center><div id="adm-container-1937"><\/div><script data-cfasync="false" async type="text/javascript" src="//display.jalewaads.com/display/items.php?1937&704&728&90&4&0&0"><\/script><\/center>');
 
 atOptions = {
 	'key' : '60ebb7008cbc89455ee51769038660b1',
