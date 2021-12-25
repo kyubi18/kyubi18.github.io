@@ -44,7 +44,7 @@ document.write('<meta content="CMania" property="og:site_name"/>');
 document.write('<link rel="canonical" href="' + hs2 + '" />');
 document.write('<meta property="og:locale" content="en_US" />');
 
-// document.write('<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4532900"><\/script>');
+document.write('<script data-cfasync="false" async type="text/javascript" src="//display.jalewaads.com/display/items.php?1970&704&0&0&9"><\/script>');
 
 
 document.write('</head><body>');
