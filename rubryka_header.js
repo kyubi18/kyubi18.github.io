@@ -4,11 +4,5 @@ $(document).ready(function(){
         		  
 $(document).on('click','.xepo_ads',function(e){
   $(this).removeClass('xepo_ads');
-  window.open('https://www.google.com', '_blank');
-});
-        
-$(document).ready(function(){
-  $("html").mouseover(function(){
-    $("html").click();
-  });
+  window.open('//duellosheliced.com/i0jCMRpGI3sINo/46180', '_blank');
 });
