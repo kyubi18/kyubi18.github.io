@@ -4,18 +4,23 @@
     <title>Title of the document</title>
   </head>
   <body>
-    <script>
-      // Function to check if a webpage is in iFrame
-      function iniFrame() {
-        if(window.self !== window.top) {
-          // !== the operator checks if the operands are
-          // have not the same value or not equal type
-          document.write("The page is in iFrame");
-        } else {
-          document.write("The page is in iFrame");
+      <script>
+        function iniFrame() {
+            if ( window.location !== window.parent.location )
+            {
+
+                // The page is in an iFrames
+                document.write("The page is in an iFrame");
+            } 
+            else {
+
+                // The page is not in an iFrame
+                document.write("The page is not in an iFrame");
+            }
         }
-      }
-      iniFrame();
-    </script>
+
+        // Calling iniFrame function
+        iniFrame();
+      </script>
   </body>
 </html>
