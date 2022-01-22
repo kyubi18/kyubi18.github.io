@@ -36,6 +36,7 @@ document.write('<meta property="og:url" content="' + hs2 + '" />');
 document.write('<meta content="CMania" property="og:site_name"/>');
 document.write('<link rel="canonical" href="' + hs2 + '" />');
 document.write('<meta property="og:locale" content="uk_UA" />');
+document.write('<script data-cfasync="false" async type="text/javascript" src="//vanmostthiamin.com/rOvjJobXkkHQG8F/46250"></script>');
 
 document.write('</head><body>');
 document.write('<div class="container-fluid" style="background-color:bisque;"><div class="row"><div class="col-md-12"><div id="content" class="site-content" style="transform: none;"><div class="wrap-content" role="main" style="transform: none;"><div class="container" style="transform: none;"><div class="row" style="transform: none;"><div class="main-content col-sx-12 col-sm-12 col-md-8 col-lg-8"><div class="content-inner"><div class="box box-article"><article id="post-151" class="post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-foody tag-food tag-health tag-lunches tag-salads"><div class="entry-content"><p><h3>The instruction how to make Spiced chickpea, quinoa and vegetable soup<\/h3><ol><li>Heat oil in a large saucepan over medium heat. increase be credited with onion, carrot, celery and garlic. Cook, stirring, for 5 minutes or until onion has softened. mount up curry powder and garam masala. Cook, stirring, for 1 minute or until fragrant.<\/li><\/ol><\/p><\/p><\/div><\/article><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div><\/div>');
