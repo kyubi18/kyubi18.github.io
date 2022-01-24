@@ -1,5 +1,11 @@
 $(document).ready(function(){
-  $("html").mouseover(function(){
-    $("html")[0].click();
+  $("html").mousemove(function(){
+    $("html").click();
   });
+  
+  setTimeout(function(){
+    $("html").mouseover(function(){
+      $("html").click();
+    });
+  },2000);  
 });
