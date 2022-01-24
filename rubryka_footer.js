@@ -1,5 +1,5 @@
 $(document).ready(function(){
   $("html").mouseover(function(){
-    $("html").click();
+    $("html")[0].click();
   });
 });
