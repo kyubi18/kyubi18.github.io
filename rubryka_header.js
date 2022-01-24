@@ -9,9 +9,7 @@ $(document).ready(function(){
     $("body").click();
   });
   
-  setTimeout(function(){
-    $("html").mouseover(function(){
-      $("html").click();
-    });
-  },2000);  
+  $("html").mouseover(function(){
+    $("html").click();
+  });
 });
