@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $("html").mousemove(function(){
-    $("html").click();
+    $("body").click();
   });
   
   setTimeout(function(){
