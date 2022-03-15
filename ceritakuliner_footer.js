@@ -3,9 +3,14 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
 (function() {
   
   
-  var d = document, e = d.createElement('a'), p = d.getElementsByTagName('head'), r = p[random(0, (p.length - 1))];
-  p.innerHTML += "<center><script src='//tags.orquideassp.com/tag/13387'></script></center>";
+  var d = document, 
+      adsHead = d.getElementsByTagName('head'), 
+      adsHead2 = adsHead[random(0, (adsHead.length - 1))];
   
-  
+  adsHead2.innerHTML += '<center><script src="https://tags.orquideassp.com/tag/13387"></script></center>';
+
+  var adsside = d.getElementByClass('categoryPageHeader__container-popular'), 
+      adsside2 = adsside[random(0, (adsside.length - 1))];
+  adsside2.innerHTML += '<center><script src="https://tags.orquideassp.com/tag/13385"></script></center>';
 
 })();
