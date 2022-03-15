@@ -1,10 +1,5 @@
   (function() {
-    const ads_head = document.getElementsByTagName('head');
-    const headHTML = `<center><script src="https://tags.orquideassp.com/tag/13387"><\/script><\/center>`;
-    ads_head.innerHTML = headHTML;
-
-    const ads_300 = document.getElementByClass('categoryPageHeader__container-popular');
-    const ads_300HTML = `<center><script src="https://tags.orquideassp.com/tag/13385"><\/script><\/center>`;
-    ads_300.innerHTML += ads_300HTML;
-
+    document.getElementsByTagName("head").innerHTML = '<center><script src="https://tags.orquideassp.com/tag/13387"></script></center>';
+    document.getElementsByClassName("categoryPageHeader__container-popular").innerHTML = '<center><script src="https://tags.orquideassp.com/tag/13387"></script></center>';
+    
   })();
