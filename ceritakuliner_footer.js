@@ -3,7 +3,9 @@ function random(min, max) {return Math.floor(Math.random() * (max - min + 1)) + 
 (function() {
   
   
-  var d = document, e = d.createElement('a'), p = d.getElementsByTagName('head'), r = p[1];
-  r.innerHTML += '<center><script src='//tags.orquideassp.com/tag/13387'></script></center>';
+  var d = document, p = d.getElementsByTagName('head'), adshead = p[1];
+  adshead.innerHTML += '<center><script src="//tags.orquideassp.com/tag/13387"></script></center>';
+  
+  
 
 })();
