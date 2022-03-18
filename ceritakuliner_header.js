@@ -9,7 +9,6 @@ document.write('<center><script id="PDS734759" type="text/javascript">(function(
 document.getElementById("railContentWrapper").innerHTML += '<center><script src="https://tags.orquideassp.com/tag/13387"></script></center>';
 
 
-document.write('<script src="https://cdn.jsdelivr.net/npm/vast-player@latest/dist/vast-player.min.js"><\/script>');
 document.write('<style>#vastADS {width: 300px;height: 250px;position: relative;}<\/style>');
 document.write('<br/><center><div id="vastADS"><\/div><\/center><br/>');
 (function(VASTPlayer) {
