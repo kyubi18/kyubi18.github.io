@@ -18,7 +18,7 @@ document.write('<br/><center><div id="vastADS"><\/div><\/center><br/>');
 	var player = new VASTPlayer(document.getElementById('vastADS'));
 
 	player.load(
-		'https://werawhaco.com/dmm.FzzMdDGUNgvTZ-GMUV/beRml9TuLZBUslDkDP/TKQ/0oMFDEgg3EOtTZUKtPNdDCQJw/OODXcU5/NCgc'
+		'https://werawhaco.com/d.mNFlztdnG/NNvLZhGFUm/beymt9cuvZuUAl-ktPUTAQs0LM/DWgS3UO/TQUGt/NWDWQ/wZOMDRc/5eNUgO'
 	).then(function startAd() {
 		return player.startAd();
 	}).catch(function(reason) {
