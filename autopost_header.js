@@ -11,5 +11,8 @@ hs.src = ('//s10.histats.com/js15_as.js');
 document.write('<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4526895&101" alt="" border="0"><\/a><\/noscript>');
 
 
-document.write('<br/><center><a href="https:\/\/minilemon.co.id"><img src="https:\/\/kyubi18.github.io\/minilemon728.jpg" alt="MiniLemon"></a><\/center><br/>');
+document.write('<br/><center><a href="https://minilemon.co.id"><img src="https:\/\/kyubi18.github.io\/minilemon728.jpg" alt="MiniLemon"></a><\/center><br/>');
 document.write("<script type='text/javascript' src='//pl16869855.trustedcpmrevenue.com/59/a3/23/59a3232719afe485a1ff710a5b1be629.js'><\/script>");
+
+
+$(document).ready(function() {$(&#39;img#closed&#39;).click(function(){$(&#39;#bl_banner&#39;).hide(90);});});
