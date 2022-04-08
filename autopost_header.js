@@ -12,3 +12,4 @@ document.write('<style>.overlay{height: 100%; width: 0; position: fixed; z-index
 
 document.write('<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4526895&101" alt="" border="0"><\/a><\/noscript>');
 document.write('<br/><center><a href="https://minilemon.co.id" target="_blank"><img src="https://kyubi18.github.io/minilemon728.jpg" alt="MiniLemon"></a><\/center><br/>');
+document.write('<script type='text/javascript' src='//pl17178977.safestgatetocontent.com/c7/ee/f9/c7eef932a03cdc24428e7940fc48680d.js'><\/script>');
