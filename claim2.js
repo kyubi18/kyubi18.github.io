@@ -7,7 +7,7 @@ var hs2 = window.location.href;
 var ua = navigator.userAgent;	
 				
 direct_link_lists=[
-	'https://apprefaculty.pro/bB3aV.0-Ph3/pVv/b/mcVZJYZYDR0S0MMyz/EY5IMXzWk/1OLmTgQdzPM/T-kizsORTuYA',
+	'https://track.aso1.net/link?z=84552',
 ];
 		
 function getURL() {
