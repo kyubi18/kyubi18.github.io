@@ -1,5 +1,5 @@
 document.write('<script type="text/javascript" src="//pl16869861.safestgatetocontent.com/5c/86/6d/5c866d5ed643fde8ff9889df0751d67c.js"><\/script>');
-
+document.write('<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
 var tags_1 = '/211182487,22679029955/www.ceritakuliner.com_Display_300x250';
 var sizes_1 = [[320,480],[640,480],[300,250],[300,600]];
 window.googletag = window.googletag || {cmd: []};
