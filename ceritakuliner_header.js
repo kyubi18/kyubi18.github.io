@@ -6,7 +6,10 @@ document.write('<meta name="tabici-site-verification" content="UR0V360J" \/>');
 
 document.write('<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
 var tags_2 = '/211182487,22679029955/www.ceritakuliner.com_Display_728x90';
+var tags_4 = '/211182487,22679029955/www.ceritakuliner.com_Interstitial';
+
 var sizes_2 = [[970,250],[970,200],[970,90],[728,90]];
+
 var interstitialSlot;
 
 window.googletag = window.googletag || {cmd: []};
