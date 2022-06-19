@@ -6,12 +6,7 @@ window.googletag = window.googletag || {
     cmd: []
 };
 googletag.cmd.push(function() {
-    googletag.defineSlot('/211182487,22679029955/www.ceritakuliner.com_Display_300x250', [
-        [320, 480],
-        [640, 480],
-        [300, 250],
-        [300, 600]
-    ], 'banner-1').addService(googletag.pubads());
+    googletag.defineSlot('/211182487,22679029955/www.ceritakuliner.com_Display_300x250', [300, 250], 'banner-1').addService(googletag.pubads());
 
     googletag.pubads().collapseEmptyDivs();
     googletag.pubads().setCentering(true);
