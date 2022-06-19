@@ -5,18 +5,13 @@ gtag('config', 'UA-222909420-1');
 document.write('<meta name="tabici-site-verification" content="UR0V360J" \/>');
 
 document.write('<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
-var tags_2 = '/211182487,22679029955/www.ceritakuliner.com_Display_728x90';
-var tags_4 = '/211182487,22679029955/www.ceritakuliner.com_Interstitial';
-
-var sizes_2 = [[970,250],[970,200],[970,90],[728,90]];
 
 var interstitialSlot;
-
 window.googletag = window.googletag || {cmd: []};
-googletag.cmd.push(function() {				
-	googletag.defineSlot(tags_2, sizes_2, 'banner-2').addService(googletag.pubads());
+googletag.cmd.push(function() {		
+	googletag.defineSlot('/211182487,22679029955/www.ceritakuliner.com_Display_728x90', [[970,250],[970,200],[970,90],[728,90]], 'banner-2').addService(googletag.pubads());
 	
-	interstitialSlot = googletag.defineOutOfPageSlot(tags_4,googletag.enums.OutOfPageFormat.INTERSTITIAL).addService(googletag.pubads());
+	interstitialSlot = googletag.defineOutOfPageSlot('/211182487,22679029955/www.ceritakuliner.com_Interstitial',googletag.enums.OutOfPageFormat.INTERSTITIAL).addService(googletag.pubads());
 					
 	googletag.pubads().collapseEmptyDivs();
 	googletag.pubads().setCentering(true);
