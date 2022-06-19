@@ -16,4 +16,4 @@ googletag.cmd.push(function() {
 });
 
 
-document.write('<center><div id="fixedban" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:99999;-webkit-transform:translateZ(0);"><div style="text-align:right;display:block;max-width:640px;height:640px;overflow:hidden;margin:auto"><div id="banner-1"><script>googletag.cmd.push(function(){googletag.display("banner-1");});<\/script><\/div><\/div><\/div><\/center>');
+document.write('<center><div id="fixedban" style="width:100%;margin:auto;text-align:right;float:none;overflow:hidden;display:scroll;position:fixed;bottom:0;z-index:99999;-webkit-transform:translateZ(0);"><div style="text-align:right;display:block;max-width:300px;height:250px;overflow:hidden;margin:auto"><div id="banner-1"><script>googletag.cmd.push(function(){googletag.display("banner-1");});<\/script><\/div><\/div><\/div><\/center>');
