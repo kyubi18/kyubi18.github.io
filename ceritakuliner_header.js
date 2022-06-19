@@ -4,8 +4,24 @@ gtag('js', new Date());
 gtag('config', 'UA-222909420-1');
 document.write('<meta name="tabici-site-verification" content="UR0V360J" \/>');
 
-document.write('<center><script src="https://tags.orquideassp.com/tag/13384"><\/script><\/center><br/>');
-document.write('<center><script src="https://tags.orquideassp.com/tag/13387"><\/script><\/center><br/>');
-document.write('<script type="text/javascript" src="https://static.adlane.info/adlane/ee34bcc156c1e920ca2684516e0da40f/spot_19218.js" defer="true" async="true"><\/script>');
-document.write('<center><ins class="aso-zone" data-zone="86939"><\/ins><script data-cfasync="false" async src="https://media.aso1.net/js/code.min.js"><\/script><\/center><br/>');
-document.write('<center><ins class="aso-zone" data-zone="86940"><\/ins><script data-cfasync="false" async src="https://media.aso1.net/js/code.min.js"><\/script><\/center><br/>');
+document.write('<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
+var tags_2 = '/211182487,22679029955/www.ceritakuliner.com_Display_728x90';
+var sizes_2 = [[970,250],[970,200],[970,90],[728,90]];
+var interstitialSlot;
+
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {				
+	googletag.defineSlot(tags_2, sizes_2, 'banner-2').addService(googletag.pubads());
+	
+	interstitialSlot = googletag.defineOutOfPageSlot(tags_4,googletag.enums.OutOfPageFormat.INTERSTITIAL).addService(googletag.pubads());
+					
+	googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().setCentering(true);
+	googletag.pubads().setTargeting('finance','health','food','sports', 'movies');
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	googletag.display("interstitialSlot");
+});
+
+document.write('<center><div id="banner-2"><script>googletag.cmd.push(function() { googletag.display("banner-2"); });<\/script><\/div><\/center><br\/>');
+document.write('<center><iframe data-aa="2030626" src="//ad.a-ads.com/2030626?size=728x90" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;"><\/iframe><\/center>');
