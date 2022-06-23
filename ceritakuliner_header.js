@@ -5,7 +5,6 @@ function gtag() {
 gtag('js', new Date());
 gtag('config', 'UA-222909420-1');
 
-document.write('<meta name="tabici-site-verification" content="UR0V360J" \/>');
 document.write('<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
 
 var interstitialSlot;
@@ -31,4 +30,3 @@ googletag.cmd.push(function() {
 });
 
 document.write('<center><div id="banner-2"><script>googletag.cmd.push(function() { googletag.display("banner-2"); });<\/script><\/div><\/center><br\/>');
-document.write('<center><iframe data-aa="2030626" src="//ad.a-ads.com/2030626?size=728x90" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;"><\/iframe><\/center>');
