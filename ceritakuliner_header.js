@@ -6,6 +6,7 @@ gtag('js', new Date());
 gtag('config', 'UA-222909420-1');
 
 document.write('<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><\/script>');
+document.write('<script src="//tags.orquideassp.com/tag/18104"><\/script>');
 
 var interstitialSlot;
 window.googletag = window.googletag || {
