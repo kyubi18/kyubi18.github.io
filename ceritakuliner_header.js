@@ -30,4 +30,5 @@ googletag.cmd.push(function() {
     googletag.display("interstitialSlot");
 });
 
+document.write('<br\/>');
 document.write('<center><div id="banner-2"><script>googletag.cmd.push(function() { googletag.display("banner-2"); });<\/script><\/div><\/center><br\/>');
