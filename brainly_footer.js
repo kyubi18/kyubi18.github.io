@@ -8,13 +8,4 @@ hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
 
-atOptions = {
-	'key' : '0917daf89c8455ca89b3c337d864a9c6',
-	'format' : 'iframe',
-	'height' : 90,
-	'width' : 728,
-	'params' : {}
-};
-document.write('<center>');
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://compensationpropulsion.com/0917daf89c8455ca89b3c337d864a9c6/invoke.js"></scr' + 'ipt>');
-document.write('<\/center>');
+document.write("<script type='text/javascript' src='//compensationpropulsion.com/5c/86/6d/5c866d5ed643fde8ff9889df0751d67c.js'><\/script>");
