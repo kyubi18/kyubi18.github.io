@@ -8,7 +8,6 @@ hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
 
-document.write("<script type='text/javascript' src='//pl17178977.safestgatetocontent.com/c7/ee/f9/c7eef932a03cdc24428e7940fc48680d.js'><\/script>");
 document.write('<style>.overlay{height: 100%; width: 0; position: fixed; z-index: 999999999999999999999999999999; top: 0; left: 0; background-color: rgb(0,0,0); background-color: rgba(0,0,0, 0.95); overflow-x: hidden; transition: 0.5s;}.overlay-content{position: relative; top: 25%; width: 100%; text-align: center; margin-top: 30px;}.overlay a{padding: 8px; text-decoration: none; font-size: 36px; color: #818181; display: block; transition: 0.3s;}.overlay a:hover, .overlay a:focus{color: #f1f1f1;}.closebtn{position: absolute; top: 20px; right: 45px; font-size: 60px !important;}@media screen and (max-height: 450px){.overlay a{font-size: 20px}.closebtn{font-size: 40px !important; top: 15px; right: 35px;}}<\/style>');
 
 document.write('<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4526895&101" alt="" border="0"><\/a><\/noscript>');
