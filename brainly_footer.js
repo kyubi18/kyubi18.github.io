@@ -7,6 +7,3 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
-
-document.write("<script type='text/javascript' src='//compensationpropulsion.com/59/a3/23/59a3232719afe485a1ff710a5b1be629.js'><\/script>");
-document.write("<script type='text/javascript' src='//compensationpropulsion.com/5c/86/6d/5c866d5ed643fde8ff9889df0751d67c.js'><\/script>");
