@@ -1,4 +1,3 @@
-document.write("<script type='text/javascript' src='//pl17178977.profitablegatetocontent.com/c7/ee/f9/c7eef932a03cdc24428e7940fc48680d.js'><\/script>");
 document.write("<script type='text/javascript' src='//pl17178979.highperformancecpmgate.com/79/65/06/79650682d2e3cadac986a94bd0d4ec55.js'><\/script>");
 
 var d = document, p = d.getElementsByTagName('html'), r = p[0];
