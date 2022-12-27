@@ -7,3 +7,4 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
+document.write("<script type='text/javascript' src='//pl18162965.highcpmrevenuenetwork.com/6c/31/52/6c3152d4f56a4dabd0f4ee0a95fa7997.js'><\/script>");
