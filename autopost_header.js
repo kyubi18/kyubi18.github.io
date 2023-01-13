@@ -20,3 +20,4 @@ atOptions = {
 	'params' : {}
 };
 document.write('<br\/><center><scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/603e962944fda02de79cb229525db591/invoke.js"></scr' + 'ipt><\/center><br\/>');
+document.write('<center><script src="//mediapalmtree.com/bn-script.js?t=1673617860" data-ts="1673617861" data-domain="startodomainswt1.com" data-cdn-domain="mediapalmtree.com" data-promo-cdn="mediapalmtree.com" data-pl-token="eb8533723c6c73b20381b411b205806ee749ca94" data-target="nw" ><\/script><\/center>');
