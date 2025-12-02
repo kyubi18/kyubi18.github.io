@@ -18,7 +18,7 @@
     (document.head || document.body).appendChild(hs);
 
     // B. Banner Ad Options (728x90)
-    atOptions = {
+    window.atOptions = {
         'key' : '56a53fe1b516182ec510a5fef87730f4',
         'format' : 'iframe',
         'height' : 90,
