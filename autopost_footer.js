@@ -1,7 +1,9 @@
-document.write("<script type='text/javascript' src='//pl20014460.highrevenuegate.com/81/5e/a1/815ea10f7b212248b01f3a7e53f204e9.js'><\/script>");
+document.write("<script type='text/javascript' src='https://js.wpadmngr.com/static/adManager.js' data-admpid='398361'><\/script>");
+document.write("<script type='text/javascript' src='//pl28176871.effectivegatecpm.com/d6/db/90/d6db9090613bcff091c8c46b7775ca7f.js'><\/script>");
+document.write("<script type='text/javascript' async='async' data-cfasync='false' src='//pl28176894.effectivegatecpm.com/641208a028e5cbce37a0b8fc50ec9aea/invoke.js'><\/script>");
 
 var d = document, p = d.getElementsByTagName('html'), r = p[0];
-r.innerHTML += '<div id="myNav" class="overlay"> <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a><div class="overlay-content"><center><a href="https://minilemon.co.id" title="MiniLemon" target="_blank"><img src="https://kyubi18.github.io/minilemon300.jpg" alt="MiniLemon"></a></center></div></div>';
+r.innerHTML += '<div id="myNav" class="overlay"> <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a><div class="overlay-content"><center><div id="container-641208a028e5cbce37a0b8fc50ec9aea"></div></center></div></div>';
 
 function openNav() {
     document.getElementById("myNav").style.width = "100%";
